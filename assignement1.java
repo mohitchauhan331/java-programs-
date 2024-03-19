@@ -16,11 +16,11 @@ public class assignement1 {
 
         if (Present)
         {
-            System.out.println(" 'e' is present ");
+            System.out.println(" 'word' is present ");
         } 
         else 
         {
-            System.out.println("'e' is not present ");
+            System.out.println("'word' is not present ");
         }
     }
 }
