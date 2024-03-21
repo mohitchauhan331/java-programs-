@@ -1,3 +1,4 @@
+//Write a program to check if the letter 'e' is present in the word . 
 public class assignement1 {  
   public static void main(String argu [] )  
     {
