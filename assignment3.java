@@ -1,4 +1,43 @@
-import java.util.Scanner;
+/*A person landed in a country where he has no idea of the currency notes. He asked the locals about the notes available in the country and he had to pay in a shop. Given an amount, find the minimum number of notes of different denominations that sum up to the given amount.Starting from the highest denomination note, try to accommodate as many notes as possible for a given amount. (40 marks)
+Test Case 1 :Enter the size of currency denominations
+5
+Enter the currency denomination 
+100
+Enter the currency denomination 
+50
+Enter the currency denomination 
+20
+Enter the currency denomination 
+1
+Enter the currency denomination 
+5
+Enter the amount you want to pay 450
+450
+Your payment approach in order to give min no of notes will be
+100 : 4
+50 : 1
+Test Case 2:Enter the size of currency denominations
+6
+Enter the currency denomination 
+100
+Enter the currency denomination 
+50
+Enter the currency denomination 
+20
+Enter the currency denomination 
+10
+Enter the currency denomination
+2
+Enter the currency denomination 
+5
+Enter the amount you want to pay
+1257
+Your payment approach in order to give min no of notes will be
+100 : 12
+50 : 1
+5 : 1
+2 : 1*/
+    import java.util.Scanner;
 
 public class hello {
     public static void main(String[] args) {
